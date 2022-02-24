@@ -1,0 +1,183 @@
+{
+  "sanpham": [
+    {
+      "id": 1,
+      "title": " IPhone 13 Pro Max CRUSH",
+      "price": "30000000",
+      "img": "https://bizweb.dktcdn.net/thumb/grande/100/031/560/products/broshop-op-lung-switcheasy-iphone-13-pro-crush-1-4b02bab0-8cdf-4a1f-80a5-3613aeca43ff.jpg?v=1634648257870",
+      "desc": "Case SwitchEasy được thiết kế tại California với tiêu chí thiết kế đặc trưng là kiểu dáng đơn giản và đẹp. Case được sản xuất bằng các vật liệu cao cấp, độ bền cao, đạt các tiêu chuẩn về chống shock và các tiêu chuẩn về Drop Test. ",
+      "tinhtrang": "100%",
+      "baohanh": "2022-03-13",
+      "tronbo": "đầy đủ phụ kiện",
+      "mau": "xanh thẫm",
+      "quantity": "10",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 2,
+      "title": "IPhone 12 Pro Max 128GB",
+      "price": "22790000",
+      "img": "https://www.techone.vn/wp-content/uploads/2021/09/xanh-1-500x500.jpg",
+      "desc": "Apple đã trang bị cho điện thoại 12 Pro Max mới này màn hình có kích thước lên đến 6,7 inch, nhờ vậy mà phần viền của máy rất nhỏ. Giống như iPhone 11 Pro Max, lần này Apple cũng dùng màn hình Super Retina XDR. Với độ phân giải 2778 x 1284 pixel, màn hình iPhone 12 Pro Max còn được bo tròn theo thiết kế cong và các góc này nằm trong một hình chữ nhật tiêu chuẩn.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-02-24",
+      "nph": "NXB Kim Đồng",
+      "size": " đóng hàng (RxDxC) 21.0 x 29.7 x 1.0 cm",
+      "trang": "116",
+      "trongluong": "266",
+      "quantity": "20",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 12 128GB",
+      "price": "19000500",
+      "img": "https://www.techone.vn/wp-content/uploads/2020/10/tim-500x500.jpg",
+      "desc": "iPhone 12 đã có sự đột phá về thiết kế với kiểu dáng mới vuông vắn, mạnh mẽ và sang trọng hơn. Không chỉ vậy, iPhone 12 mỏng hơn 11%, nhỏ gọn hơn 15% và nhẹ hơn 16% so với thế hệ trước iPhone 11.",
+      "nxb": "NXB Kim Đồng",
+      "ngayxb": "2022-03-04",
+      "nph": "NXB Kim Đồng",
+      "size": "đóng hàng (RxDxC) 11.3 x 17.6 x 2.0 cm",
+      "trang": "192",
+      "trongluong": "350",
+      "quantity": "5",
+      "id_danhmuc": "1"
+    }
+  ],
+  "danhMuc": [
+    {
+      "id": 1,
+      "title": "Tất cả điện thoại Iphone"
+    },
+    {
+      "id": 2,
+      "title": "Tất cả điện thoại Samsung"
+    },
+    {
+      "id": 3,
+      "title": "Tất cả điện thoại Xiaomi"
+    },
+    {
+      "id": 4,
+      "title": "Tất cả điện thoại Nokia"
+    },
+    {
+      "id": 5,
+      "title": "Điện thoại cũ"
+    }
+  ],
+  "users": [
+    {
+      "email": "nguyenvanliem0501@gmail.com",
+      "password": "$2a$10$MW.N0VNSK8SmKZADYc2gbu1cP4BTWKFPc6ZcH9.K6k4aQ6k0D32je",
+      "name": "nguyen van liem",
+      "role": 1,
+      "id": 5
+    }
+  ]
+}
